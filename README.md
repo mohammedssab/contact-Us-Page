@@ -1,5 +1,5 @@
 # contact-Us-Page
-# how to Download
+# How to Download
 you can download this code by typing the following code in CMD.
 ```
   git clone https://github.com/DK-Khambhadiya/contact-Us-Page/upload
